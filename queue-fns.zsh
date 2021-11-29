@@ -35,13 +35,17 @@ __confirm() {
 } >&2
 
 beet_import_albums() {
+    local -aU opts
+    print "Enter desired options for Beets import:"
+    print -aC2 -- ${(kv)beet_opts}
+    read -A opts
     for album ($@); do
         local -i stat=$(get_path $album)
         (( stat != 0 )) && continue
         print -u2 "Importing album $album (current status=$stat)"
         __confirm "(Press [yY] to abort and break the loop...)" -t 2 && break
         print -u2 ""
-        beet import ${(k)beet_opts} -l $log $album
+        beet import ${(k)opts} -l $log $album
         if [[ $? -eq 0 ]]; then
             print -u2 "Album $album processed successfully."
             __confirm "Continue [yY] or modify path attribute?" &&
