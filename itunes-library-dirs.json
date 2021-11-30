@@ -474,30 +474,30 @@
       "Words & Music_ Greatest Hits [Disc 1]": 1
     },
     "Cowboy Bebop": {
-      "Cowboy Bebop OST": 0,
-      "Unknown Album": 0
+      "Cowboy Bebop OST": 1,
+      "Unknown Album": 1
     },
     "Creedence Clearwater Revival": {
-      "Chronicle, Vol. 1": 0
+      "Chronicle, Vol. 1": 1
     },
     "Cut Copy": {
-      "In Ghost Colours": 0
+      "In Ghost Colours": 1
     },
     "Daft Punk": {
-      "Discovery": 0,
-      "Human After All": 0,
-      "Musique, Vol. 1 (1993-2005)": 0,
-      "TRON_ Legacy": 0
+      "Discovery": 1,
+      "Human After All": -1,
+      "Musique, Vol. 1 (1993-2005)": -1,
+      "TRON_ Legacy": -1
     },
     "Daler Mehndi": {
-      "Tunak Tunak": 0
+      "Tunak Tunak": 1
     },
     "Damien Rice": {
-      "Unknown Album": 0,
-      "Whitman Sampler": 0
+      "Unknown Album": 1,
+      "Whitman Sampler": 1
     },
     "Danger Mouse & Sparklehorse Feat. Black Francis": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. David Lynch": {
       "Dark Night Of The Soul": 0
