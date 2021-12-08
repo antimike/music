@@ -500,110 +500,110 @@
       "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. David Lynch": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. Gruff Rhys": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. Iggy Pop": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. James Mercer": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. Jason Lytle": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. Julian Casablancas": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. Nina Persson": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. Suzanne Vega": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. The Flaming Lips": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Danger Mouse & Sparklehorse Feat. Vic Chestnutt": {
-      "Dark Night Of The Soul": 0
+      "Dark Night Of The Soul": 1
     },
     "Daniel Barenboim": {
-      "Beethoven Piano Sonatas": 0,
-      "Beethoven_ Piano Sonatas [Disc 1]": 0,
-      "Beethoven_ Piano Sonatas [Disc 10]": 0,
-      "Beethoven_ Piano Sonatas [Disc 3]": 0,
-      "Beethoven_ Piano Sonatas [Disc 4]": 0,
-      "Beethoven_ Piano Sonatas [Disc 6]": 0,
-      "Beethoven_ Piano Sonatas [Disc 8]": 0,
-      "Beethoven_ The Complete Piano Sonatas [Disc 2]": 0,
-      "Beethoven_ The Complete Piano Sonatas [Disc 5]": 0,
-      "Beethoven_ The Complete Piano Sonatas [Disc 7]": 0,
-      "Beethoven_ The Complete Piano Sonatas [Disc 9]": 0
+      "Beethoven Piano Sonatas": 1,
+      "Beethoven_ Piano Sonatas [Disc 1]": 1,
+      "Beethoven_ Piano Sonatas [Disc 10]": 1,
+      "Beethoven_ Piano Sonatas [Disc 3]": 1,
+      "Beethoven_ Piano Sonatas [Disc 4]": 1,
+      "Beethoven_ Piano Sonatas [Disc 6]": 1,
+      "Beethoven_ Piano Sonatas [Disc 8]": 1,
+      "Beethoven_ The Complete Piano Sonatas [Disc 2]": 1,
+      "Beethoven_ The Complete Piano Sonatas [Disc 5]": 1,
+      "Beethoven_ The Complete Piano Sonatas [Disc 7]": 1,
+      "Beethoven_ The Complete Piano Sonatas [Disc 9]": 1
     },
     "Daniel Barenboim; Otto Klemperer_ New Philharmonia Orchestra": {
-      "Beethoven_ Piano Trios [Disc 2]": 0
+      "Beethoven_ Piano Trios [Disc 2]": 1
     },
     "Daniel Barenboim, Pinchas Zukerman, Jacqueline Du Pr?": {
-      "Beethoven_ Piano Trios [Disc 1]": 0,
-      "Les Introuvables [Disc 10]": 0
+      "Beethoven_ Piano Trios [Disc 1]": 1,
+      "Les Introuvables [Disc 10]": 1
     },
     "Daniel Bedingfield": {
-      "Gotta Get Thru This": 0
+      "Gotta Get Thru This": 1
     },
     "Dashboard Confessional": {
-      "The Swiss Army Romance": 0
+      "The Swiss Army Romance": 1
     },
     "Dave Matthews and Tim Reynolds": {
-      "Unknown Album": 0
+      "Unknown Album": 1
     },
     "Dave Matthews Band": {
-      "6.23.97": 0,
-      "Before These Crowded Streets": 0,
-      "Crash": 0,
-      "lilly white sessions": 0,
-      "Remember Two Things": 0,
-      "Unknown Album": 0
+      "6.23.97": 1,
+      "Before These Crowded Streets": 1,
+      "Crash": 1,
+      "lilly white sessions": 1,
+      "Remember Two Things": 1,
+      "Unknown Album": 1
     },
     "David Bowie": {
-      "Best of Bowie": 0,
-      "Labyrinth Soundtrack": 0,
-      "Outside": 0,
+      "Best of Bowie": -1,
+      "Labyrinth Soundtrack": 1,
+      "Outside": 1,
       "The Next Day (Deluxe Version)": {
         "The Next Day (Deluxe Version) - iTunes LP (v2.0).itlp": {
-          "audio": 0,
-          "controllers": 0,
-          "css": 0,
+          "audio": -1,
+          "controllers": -1,
+          "css": -1,
           "images": {
-            "common": 0,
-            "credits": 0,
-            "home": 0,
-            "interface": 0,
-            "linernotes": 0,
-            "links": 0,
-            "songs": 0
+            "common": -1,
+            "credits": -1,
+            "home": -1,
+            "interface": -1,
+            "linernotes": -1,
+            "links": -1,
+            "songs": -1
           },
           "TuneKit": {
-            "sounds": 0,
-            "src": 0
+            "sounds": -1,
+            "src": -1
           },
-          "views": 0
+          "views": -1
         }
       },
-      "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars": 0
+      "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars": 1
     },
     "Death Cab For Cutie": {
-      "Katie's 1 Year Album": 0,
-      "Plans": 0,
-      "Something About Airplanes": 0,
-      "Transatlanticism": 0
+      "Katie's 1 Year Album": 1,
+      "Plans": 1,
+      "Something About Airplanes": 1,
+      "Transatlanticism": 1
     },
     "Deep Blue Something": {
-      "Unknown Album": 0
+      "Unknown Album": 1
     },
     "Depeche Mode": {
-      "Violator": 0
+      "Violator": 1
     },
     "Devendra Banhart": {
       "Smokey Rolls Down Thunder Canyon": 0,
