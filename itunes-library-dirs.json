@@ -1236,143 +1236,143 @@
     "Pinchas Zukerman, Daniel Barenboim": {
       "Beethoven_ Violin Sonatas [Disc 1]": 1,
       "Beethoven_ Violin Sonatas [Disc 2]": 1,
-      "Beethoven_ Violin Sonatas [Disc 3]": 0
+      "Beethoven_ Violin Sonatas [Disc 3]": 1
     },
     "Pink Floyd": {
-      "Dark Side of the Moon": 0,
-      "Unknown Album": 0
+      "Dark Side of the Moon": 1,
+      "Unknown Album": 1
     },
     "Purple Butterfly": {
-      "In-A-Gadda-Da-Vida": 0
+      "In-A-Gadda-Da-Vida": 1
     },
     "(Queen)": {
-      "Unknown Album": 0
+      "Unknown Album": 1
     },
     "Queen": {
-      "Unknown Album": 0
+      "Unknown Album": 1
     },
     "Radiohead": {
-      "The Bends": 0
+      "The Bends": 1
     },
     "(Ramones)": {
-      "Unknown Album": 0
+      "Unknown Album": 1
     },
     "Reel Big Fish": {
-      "Unknown Album": 0
+      "Unknown Album": 1
     },
     "Richard Drexler": {
-      "Se?or Juan Brahms": 0
+      "Se?or Juan Brahms": 1
     },
     "Richard Zimmerman": {
-      "Scott Joplin, complete works (vol. 1)": 0,
-      "Scott Joplin_ His Complete Works": 0
+      "Scott Joplin, complete works (vol. 1)": 1,
+      "Scott Joplin_ His Complete Works": 1
     },
     "Royal Crown Revue": {
-      "Mugzy's Move": 0
+      "Mugzy's Move": 1
     },
     "Rudolf Firkusny;Juilliard String Quartet": {
-      "Dvo??k_ Quartet #12, Piano Quintet": 0
+      "Dvo??k_ Quartet #12, Piano Quintet": -1
     },
     "Sarah Blasko": {
-      "As Day Follows Night": 0,
-      "I Awake": 0,
-      "The Overture & the Underscore": 0,
-      "What the Sea Wants, the Sea Will Have": 0
+      "As Day Follows Night": 1,
+      "I Awake": 1,
+      "The Overture & the Underscore": 1,
+      "What the Sea Wants, the Sea Will Have": 1
     },
     "Save Ferris": {
-      "Save Ferris": 0
+      "Save Ferris": 1
     },
     "seatbelts": {
-      "cowboy.bebop-soundtrack.01": 0
+      "cowboy.bebop-soundtrack.01": 1
     },
     "(Simon & Garfunkel)": {
       "Unknown Album": -1
     },
     "Simon & Garfunkel": {
-      "Simon & Garfunkel_ Live 1969": 0
+      "Simon & Garfunkel_ Live 1969": 1
     },
     "(Squirrel Nut Zippers)": {
-      "Unknown Album": 0
+      "Unknown Album": 1
     },
     "(Steppenwolf)": {
-      "Unknown Album": 0
+      "Unknown Album": 1
     },
     "(Steve Miller Band)": {
-      "Unknown Album": 0
+      "Unknown Album": 1
     },
     "Stone Temple Pilots": {
-      "Core": 0
+      "Core": 1
     },
     "Suzanne Vega": {
-      "Tried And True (Best Of)": 0,
-      "Unknown Album": 0
+      "Tried And True (Best Of)": 1,
+      "Unknown Album": 1
     },
     "Sviatoslav Richter": {
-      "Great Pianists Of The 20th Century - Sviatoslav Richter 3 [Disc 2]": 0
+      "Great Pianists Of The 20th Century - Sviatoslav Richter 3 [Disc 2]": 1
     },
     "Sviatoslav Richter; Stanislaw Wislocki_ Warsaw Philharmonic Orchestra": {
-      "Great Pianists Of The 20th Century - Sviatoslav Richter 3 [Disc 2]": 0
+      "Great Pianists Of The 20th Century - Sviatoslav Richter 3 [Disc 2]": 1
     },
     "Ted Nash and Odeon": {
-      "La Espada de la Noche": 0
+      "La Espada de la Noche": 1
     },
     "The All-American Rejects": {
-      "Move Along": 0
+      "Move Along": 1
     },
     "The Avett Brothers": {
-      "I And Love And You": 0
+      "I And Love And You": 1
     },
     "The Beach Boys": {
-      "The Beach Boys Classics": 0
+      "The Beach Boys Classics": 1
     },
     "The Beatles": {
-      "A Hard Day's Night": 0,
-      "Anthology 1 [Disc 2]": 0,
-      "Help!": 0,
-      "Let It Be": 0,
-      "Let It Be... Naked": 0,
-      "Magical Mystery Tour": 0,
-      "Please Please Me": 0,
-      "Revolver": 0,
-      "Rubber Soul": 0,
-      "Sgt. Pepper's Lonely Hearts Club Band": 0,
+      "A Hard Day's Night": 1,
+      "Anthology 1 [Disc 2]": 1,
+      "Help!": 1,
+      "Let It Be": 1,
+      "Let It Be... Naked": 1,
+      "Magical Mystery Tour": 1,
+      "Please Please Me": 1,
+      "Revolver": 1,
+      "Rubber Soul": 1,
+      "Sgt. Pepper's Lonely Hearts Club Band": 1,
       "The Beatles (White Album)": {
         "The Beatles - iTunes LP (v2.1).itlp": {
-          "audio": 0,
+          "audio": 1,
           "controllers": {
-            "theWhiteAlbum": 0
+            "theWhiteAlbum": 1
           },
           "css": {
-            "theWhiteAlbum": 0
+            "theWhiteAlbum": 1
           },
           "images": {
             "theWhiteAlbum": {
-              "home": 0,
-              "interface": 0,
-              "photos": 0,
-              "slideshow": 0,
-              "songs": 0,
-              "zoom": 0
+              "home": 1,
+              "interface": 1,
+              "photos": 1,
+              "slideshow": 1,
+              "songs": 1,
+              "zoom": 1
             }
           },
-          "scripts": 0,
+          "scripts": 1,
           "TuneKit": {
-            "sounds": 0,
-            "src": 0
+            "sounds": 1,
+            "src": 1
           },
-          "views": 0
+          "views": 1
         }
       },
-      "The Beatles (White Album) [Disc 1]": 0,
-      "The Beatles (White Album) [Disc 2]": 0,
-      "Unknown Album": 0
+      "The Beatles (White Album) [Disc 1]": 1,
+      "The Beatles (White Album) [Disc 2]": 1,
+      "Unknown Album": 1
     },
     "The Black Keys": {
-      "The Big Come Up": 0,
-      "Thickfreakness": 0
+      "The Big Come Up": 1,
+      "Thickfreakness": 1
     },
     "The Boy Least Likely To": {
-      "The Best Party Ever": 0
+      "The Best Party Ever": 1
     },
     "The Carpenters": {
       "Close To You": 0,
